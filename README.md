@@ -12,14 +12,13 @@ Contact: official@dongri.me
 | 01.2021 ~ Present | netmarble | Service Designer |
 | 06.2019 ~ 12.2020 | goorm | Product Designer |
 
-### Projects & Featured Writings
+### Projects 
+* **Charlotte's Table**
 
-* **Charlotte's Table** (Project)
-* **Figma 플러그인, 디자이너가 직접 만들어 보기** (2024 · netmarble Engineering)  
-  [Read Article](https://href.li/?https://netmarble.engineering/create-figma-plugin-by-designer/)
+### Featured Writings
+* [**Figma 플러그인, 디자이너가 직접 만들어 보기** (2024 · netmarble Engineering)  ](https://href.li/?https://netmarble.engineering/create-figma-plugin-by-designer/)
 
 ### Skills
-
 * Web Design
 * After Effects
 * HTML / CSS
