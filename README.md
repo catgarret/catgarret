@@ -1,6 +1,9 @@
 # Hello, Dong-gri
 
 Designer based in South Korea  
+> 복잡한 UX는 직관적으로, 반복되는 비효율은 자동화 도구로 구조화하는 프로덕트 디자이너입니다.  
+> I am a Product Designer who structures complex UX intuitively and eliminates workflow inefficiencies using automation tools.
+> 
 Contact: official@dongri.me
 
 ---
