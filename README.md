@@ -13,7 +13,18 @@ Contact: official@dongri.me
 | 06.2019 ~ 12.2020 | goorm | Product Designer |
 
 ### Projects 
-* **Charlotte's Table**
+
+* **[Charlotte's Table](https://web.archive.org/web/20230930224551/https://playcharlottestable.netmarble.com/en/)**
+  * Casual puzzle game pre-registration & brand launching site design
+* **[TOWER OF GOD: NEW WORLD](https://towerofgod.netmarble.com/en)**
+  * Pre-registration & brand launching site design
+  * Main landing page, common UI, game introduction, and features ([Behance Portfolio](https://www.behance.net/gallery/179245261/TOWER-OF-GOD-NEW-WORLD-PC-Mobile-Web-UIUX))
+* **[DEMIS RE:BORN](https://web.archive.org/web/20240224055748/https://demis.netmarble.com/ko)**
+  * G-STAR 2023 brand site design
+* **[Stone Age: Pet World](https://stoneage.netmarble.com/en)**
+  * Official site and UA design
+* **[Seven Knights Re:Birth](https://sena.netmarble.com/ko/)**
+  * G-STAR 2024 brand site and user showcase (Tasting Event) design ([Behance Portfolio](https://www.behance.net/gallery/231541683/Seven-Knights-ReBIRTH))
 
 ### Featured Writings
 * [**Figma 플러그인, 디자이너가 직접 만들어 보기**](https://href.li/?https://netmarble.engineering/create-figma-plugin-by-designer/) (2024 · netmarble Engineering)
@@ -25,7 +36,7 @@ Contact: official@dongri.me
 
 ---
 
-### Recent Blog Posts
+### Recent lab.dongri.me Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [OneDrive를 대체하려다 FilenMount를 만든 후기](https://lab.dongri.me/p/filenmount-rclone-network-drive)
