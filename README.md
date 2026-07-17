@@ -16,7 +16,7 @@ Contact: official@dongri.me
 * **Charlotte's Table**
 
 ### Featured Writings
-* [**Figma 플러그인, 디자이너가 직접 만들어 보기** (2024 · netmarble Engineering)  ](https://href.li/?https://netmarble.engineering/create-figma-plugin-by-designer/)
+* [**Figma 플러그인, 디자이너가 직접 만들어 보기**](https://href.li/?https://netmarble.engineering/create-figma-plugin-by-designer/) (2024 · netmarble Engineering)
 
 ### Skills
 * Web Design
