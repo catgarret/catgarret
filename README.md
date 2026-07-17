@@ -50,6 +50,6 @@ Contact: official@dongri.me
 
 ### Profiles & Links
 
-* [Blog: lab.dongri.me](https://lab.dongri.me)
+* [lab.dongri.me](https://lab.dongri.me)
 * [Behance](https://be.net/dong-gri)
 * [LinkedIn](https://www.linkedin.com/in/dong-gri/)
