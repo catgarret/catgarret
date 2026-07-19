@@ -41,8 +41,8 @@ Designer based in South Korea
 ### Recent lab.dongri.me Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OneDrive를 대체하려다 FilenMount를 만든 후기](https://lab.dongri.me/p/filenmount-rclone-network-drive)
 - [이미지 Pixel Mosaic 애니메이션 — Lazy Loading 플러그인화](https://lab.dongri.me/p/pixel-mosaic-lazy-loader)
+- [OneDrive를 대체하려다 FilenMount를 만든 후기](https://lab.dongri.me/p/filenmount-rclone-network-drive)
 - [Gemini·Copilot·Claude·Meta AI 대화 기록 한 번에 삭제하기](https://lab.dongri.me/p/ai-chat-history-delete-script)
 - [GSAP ScrollTrigger](https://lab.dongri.me/p/gsap-scrolltrigger)
 - [Windows Bluetooth 연결 자동화 하기](https://lab.dongri.me/p/windows-bluetooth)
