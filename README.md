@@ -23,7 +23,7 @@ Designer based in South Korea
   * Main landing page, common UI, game introduction, and features ([Behance](https://www.behance.net/gallery/179245261/TOWER-OF-GOD-NEW-WORLD-PC-Mobile-Web-UIUX))
 * **[DEMIS RE:BORN](https://web.archive.org/web/20240224055748/https://demis.netmarble.com/ko)**
   * G-STAR 2023 brand site design
-* **[Stone Age: Pet World](https://stoneage.netmarble.com/en)**
+* **[StoneAge: Idle Adventure](https://stoneage.netmarble.com/en)**
   * Official site and UA design
 * **[Seven Knights Re:Birth](https://sena.netmarble.com/ko/)**
   * G-STAR 2024 brand site and user showcase (Tasting Event) design ([Behance](https://www.behance.net/gallery/231541683/Seven-Knights-ReBIRTH))
