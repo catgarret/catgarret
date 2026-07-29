@@ -59,6 +59,7 @@ Designer based in South Korea
 
 ### Profiles & Links
 
+* [dongri.me](https://dongri.me)
 * [lab.dongri.me](https://lab.dongri.me)
 * [Behance](https://be.net/dong-gri)
 * [LinkedIn](https://www.linkedin.com/in/dong-gri/)
