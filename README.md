@@ -26,7 +26,10 @@ Designer based in South Korea
 * **[StoneAge: Idle Adventure](https://stoneage.netmarble.com/en)**
   * Official site and UA design
 * **[Seven Knights Re:Birth](https://sena.netmarble.com/ko/)**
-  * G-STAR 2024 brand site and user showcase (Tasting Event) design ([Behance](https://www.behance.net/gallery/231541683/Seven-Knights-ReBIRTH))
+  * G-STAR 2024 brand site and three offline player showcase event designs ([Behance](https://www.behance.net/gallery/231541683/Seven-Knights-ReBIRTH))
+  * Seven Knights Re:Birth Tasting Event 2024 ([YouTube](https://www.youtube.com/watch?v=eovdrZ_aZik))
+  * Seven Knights Re:Birth Preview Day 2025 ([YouTube](https://www.youtube.com/watch?v=Rgw2MStl0q4))
+  * Seven Knights Festival 2025 ([YouTube](https://www.youtube.com/watch?v=CNlay-9wfjE))
 
 ### Featured Writings
 * [**Figma 플러그인, 디자이너가 직접 만들어 보기**](https://href.li/?https://netmarble.engineering/create-figma-plugin-by-designer/) (2024 · netmarble Engineering)
