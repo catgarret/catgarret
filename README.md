@@ -12,7 +12,7 @@ Designer based in South Korea
 | Period | Company | Role |
 | :--- | :--- | :--- |
 | 01.2021 ~ Present | netmarble | Service Designer |
-| 06.2019 ~ 12.2020 | goorm | Product Designer |
+| 06.2019 ~ 12.2020 | goorm | UI/UX Designer |
 
 ### Projects 
 
