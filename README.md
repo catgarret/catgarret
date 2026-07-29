@@ -36,6 +36,10 @@ Designer based in South Korea
 
 ### Skills
 * Product Design
+* UI/UX Design
+* Design Systems
+* AI Workflow Automation
+* Figma
 * After Effects
 * HTML / CSS
 
